@@ -14,7 +14,8 @@ In the final semester, I took the Capstone course as an opportunity to share my 
 
 This is not a perfect proposal, but at least the best I can accomplish at this stage. There's still a long way to go...!
 
-<img style="height: 500px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-tc.png">
+### See page preview!
+<img style="height: 500px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-en.png">
 
 ### Capstone Project Links
 - 📊 [Full Proposal](https://github.com/kelly990918/NYUCapstone/blob/main/Leung-KongTone_proposal.pdf)
@@ -38,6 +39,9 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 在最後一個學期，我終於可以透過畢業專題的機會來好好分享我的文化，同時融合了我這一年多學習到的業界知識，最終製作了這份畢業作品。最後繳交作品時，除了成功感外，一陣空虛感油然而生。因為這代表我這兩年的學習歷程已經結束，是時候要進入人生下一階段了。
 
 作為學生作品，我深知尚有不少進步空間，還望各位讀者多多包涵。
+
+### 網頁預覽！
+<img style="height: 500px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-tc.png">
 
 ### 專題作品鏈接
 - 📊 [商業提案全文](https://github.com/kelly990918/NYUCapstone/blob/main/Leung-KongTone_proposal.pdf)
