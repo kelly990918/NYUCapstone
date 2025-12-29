@@ -47,8 +47,9 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 - 📊 [商業提案全文](https://github.com/kelly990918/NYUCapstone/blob/main/Leung-KongTone_proposal.pdf)
 - 📈 [幻燈片](https://www.figma.com/slides/rBhGiL707hsq453N9gBkcP/Presentation-Deck?node-id=112-47&t=tt320JJY5i5GckmP-1)
 - 💻 [電腦原型（繁中版）](https://www.figma.com/proto/ZfvLHqg9ESb3mFWhteauAH/KongTone-prototype?page-id=0%3A1&node-id=1-2&viewport=25%2C163%2C0.15&t=Vb92NQ03i4MtIA07-1&scaling=scale-down&content-scaling=f)
-- 📱 [手機原型](https://www.figma.com/proto/ZfvLHqg9ESb3mFWhteauAH/KongTone-prototype?page-id=18%3A88&node-id=18-213&viewport=318%2C339%2C0.27&t=c7v8KvTzmg4HgxW8-1&scaling=scale-down&content-scaling=fixed)
- 
+- 📱 [手機原型](https://www.figma.com/proto/ZfvLHqg9ESb3mFWhteauAH/KongTone-prototype?page-id=18%3A88&node-id=18-213&viewport=318%2C339%2C0.27&t=c7v8KvTzmg4HgxW8-1&scaling=scale-down&content-scaling=fixed) <a src="https://www.figma.com/proto/ZfvLHqg9ESb3mFWhteauAH/KongTone-prototype?page-id=18%3A88&node-id=18-213&viewport=318%2C339%2C0.27&t=c7v8KvTzmg4HgxW8-1&scaling=scale-down&content-scaling=fixed" target="_blank">手機原型</a>
+ target="_blank"
+
 ---
 
 © 2025 Yi Yan Leung. This work is licensed under CC BY-SA 4.0.
