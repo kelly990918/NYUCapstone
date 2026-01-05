@@ -14,6 +14,12 @@ In the final semester, I took the Capstone course as an opportunity to share my 
 
 This is not a perfect proposal, but at least the best I can accomplish at this stage. There's still a long way to go...!
 
+### Something about the project...
+- Platform: digital (website & web app)
+- Content arrangement: multimedia, interactive courses
+- Target audience: Cantonese as Second Language (CSL) learners, second-/ third-generation immigrants, diaspora communities
+- Revenue streams: in-app sales, display ads, native ads
+
 ### See page preview!
 <img style="height: 300px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYU-Capstone-KongTone/blob/main/desktop-en.png">
 
@@ -38,6 +44,12 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 在最後一個學期，我終於可以透過畢業專題的機會來好好分享我的文化，同時融合了我這一年多學習到的業界知識，最終製作了這份畢業作品。最後繳交作品時，除了成功感外，一陣空虛感油然而生。因為這代表我這兩年的學習歷程已經結束，是時候要進入人生下一階段了。
 
 作為學生作品，我深知尚有不少進步空間，還望各位讀者多多包涵。
+
+### 少許背景⋯⋯
+- 平台：數位（網站、網路應用程式）
+- 內容形式：多媒體互動課程
+- 受眾：以廣東話作為外語者、第二/三代移民、離散群體
+- 營利模式：平台代幣、數位廣告、原生廣告
 
 ### 網站預覽！
 <img style="height: 300px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-tc.png">
